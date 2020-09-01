@@ -8,7 +8,8 @@ $find = '/<div><br><\/div>/';
 $replace = '';
 $body = preg_replace($find, $replace, $body); 
 
-?><section id="main">
+?><div id='fullwindow'></div>
+<section id="main">
 	<div id="breadcrumbs">
 		<ul class="nav-level">
 			<li><?
@@ -31,8 +32,7 @@ $body = preg_replace($find, $replace, $body);
                     echo date("F j, Y", strtotime($date));
                     echo '<br/>';
                     echo $deck;
-                    echo '<br/>';
-                    echo '<br/>';
+                    echo '<br/><br/>';
                     echo $notes;
                 ?></div><?
             }
@@ -41,17 +41,20 @@ $body = preg_replace($find, $replace, $body);
 </section>
 
 <script type="text/javascript" src="/static/js/screenfull.min.js"></script>	
+<script type="text/javascript" src="/static/js/windowfull.js"></script>	
 <script>
     var imgs = document.querySelectorAll('img,video');
 	var i;
 	var index;
 	for (i = 0; i < imgs.length; i++) {
-		imgs[i].addEventListener('click', function () {
-			if (screenfull.isEnabled) {
-				screenfull.toggle(this);
-			}
-			index = i;
-			console.log(index);
-		}, false);
+		if (screenfull.isEnabled) {
+    		imgs[i].addEventListener('click', function () {
+                screenfull.toggle(this);
+    		}, false);
+		} else {
+    		imgs[i].addEventListener('click', function () {
+                windowfull.toggle(this);
+    		}, false);
+        }
 	}
 </script>
