@@ -1,0 +1,66 @@
+Designing Programmes
+Karl Gerstner
+
+Instead of solutions for problems, programmes for solutions Ñ the subtitle can also be understood in these terms: for no problem (so to speak) is there an absolute solution. Reason: the possibilities cannot be delimited absolutely. There is always a group of solutions, one of which is the best under certain conditions.
+
+To describe the problem is part of the solution. This implies: not to make creative decisions as prompted by feeling but by intellectual criteria. The more exact and complete these criteria are, the more creative the work becomes. The creative process is to be reduced to an act of selection. Designing means: to pick out determining elements and combine them. Seen in these terms, designing calls for method. 
+
+--
+
+Integral typography
+
+A new label? The typographical aspect of a new ism? No, this is just what is not meant. The times of both, pioneers and isms, are over. After the adventurers of the 'teens and the twenties we are the settlers, the colonizers.
+
+The continent of modern creation is not only discovered, but it already figures on various maps. Isms are the countries of the spiritual map, each one with a border separating it from the others as in a school geography Ñ and like everything in school books right and wrong at the same time. For today the borderlines between isms are beginning to be obscured. And what interest us are not so much the surrounding constructions as the matter itself, the individual achievement which stands finally behind collective theories. In my opinion, for the sake of honesty, no new ism should be created.
+
+Today it is time (at any rate so it seems to me) to gain distance from the theses of the "new" and "elementary" typography of the twenties and the "functional" typography of the early forties.
+
+Let us recapitulate these theses once again. Max Bill writes in 1945: "We call elementary typography a typography entirely developed out of its own data; that is to say, which works in an elementary way with basic typographical elements, and if, at the same time, it aims at the sentence-picture in such a way that it becomes a living sentence-organism without any decorative addition and without any strain, we would call it functional or organic typography. Which is to say that all demands Ñ technical, economic, functional and aesthetic Ñ should be fulfilled and should determine together the sentence-picture."
+
+It is precisely in typography that the difficulty of setting theoretical boundaries is plain. For example discussing Bill's functional claim, Jan Tschichold, the editor of "Elementary Typography" said even in 1928: "The New Typography is different from the earlier because it is the first to attempt the derivation of the appearance from the function of the text." And Moholy-Nagy even five years earlier: "This first of all: an unambiguous clarity in all typographical works. Legibility and communication should never suffer from a previously held aesthetic."
+
+Those were the theses which caused the typographical revolution and let loose discussion forty, twenty and even ten years ago. Today it can be said that they are no longer controversial; they are accepted Ñ and thus they have lost their object, their currency. This is what is up to date in the situation of the new typography of 1959. After all a dream has been fulfilled, but the envisaged paradise has remained as far away as ever. In the twenties for instance it was claimed for the first time that the typographer should proceed from the data of his material, from the basic typographical elements; today it is hardly conceivable that he should not proceed from them.
+
+If most of the pioneers' theses have become selfevident, the aesthetic criteria have been generally outlived. For example: Is sans serif or Roman type the type of the twentieth century?
+
+"Among all existing types the sans serif . . . is the only one which conforms spiritually to our time? is symmetrical or asymmetrical typography the genuine, contemporary way of expression? do flush left, ragged right or flush left, flush right correspond to present-day feelings? can a type be set vertically or not? and so on.
+
+Such either or criteria have served their time and their purpose. Today typographers use both sans serif and Roman type, set books both symmetrically and asymmetrically, use both flush left, ragged right and flush left, flush right. Today everything is stylistically allowable, allowable from the point of view of up-to-dateness. "There remain only open doors to be unlocked," as the German saying has it. And we shall not be spared the necessity of rendering an account of the state of our spiritual inheritance. Nobody will relieve us of the task of searching for new criteria.
+
+Typography is an art not in spite of its serving a purpose  but for that very reason. The designer's freedom lies not at the margin of a task but at its very centre. Only then is the typographer free to perform as an artist when he understands and ponders his task in all its parts. And every solution he finds on this basis will be an integral one, will achieve a unity between language and type, between content and form.
+
+Integral means: shaped into a whole. There the Aristotelian dictum that the whole is greater than the sum of its parts is assumed. And this vitally concerns typography. Typography is the art of making a whole out of predetermined parts. The typographer "sets." He sets individual letters into words, words into sentences.
+
+Letters are the elementary particles of the written language Ñ and thus of typography. They are figurative signs for sounds without content, parts which acquire a meaning and a value only if they are combined. This means that combinations of two, three and more letters show in any case a word-picture, but definite letters render a definite idea only in a certain sequence; literally they constitute a word. To clarify the example from the other angle let us take four letters which can be combined in four different ways. From this we can see that only one combination makes sense. The 23 remaining are indeed both legible and pronounceable, they contain the same elements and give the same total. But they do not constitute a linguistic whole. They remain meaningless.
+
+To the importance of the whole, the integral in general, for language and typography, is obvious. If the proportion between the correct and the possible combinations in words of four letters is 1: 24, in five-letter words it will be 1: 120, in six-letter words 1: 720, in seven-letter words 1: 5040 and so on.
+
+This means that what we can write and set with our letters in all languages Ñ if it makes sense, it makes a whole Ñ always remains a mere fraction of the mathematical possibilities of the alphabet.
+
+In our contemporary reality abstract word-creations which seem at first sight the eccentric ideas of a poet, have developed into an everyday economic factor. Every day new words are created. Perhaps they grow out of abreviations like UNO, are pieced together from foreign words like Ovaltine, or are new inventions like Persil; in each case they are independent of their source. And now names for industrial products are found by means of electronic computers. This happens as follows: some three random vowels and four consonants are fed into the computer which registers in a few moments thousands of combinations, replacing imagination by mechanical choice. These meaningless word-creations have become indispensable to publicity. The label departments of every firm of importance have dozens of them in stock; before the products exist the name is already registered and protected by law.
+
+Elementary optics correspond to elementary speech sounds, the formal value of the type corresponds to the acoustic value of language. 
+
+Summarized:
+
+I. Integral typography strives for the marriage of language and type resulting in a new unity, in a superior whole. Text and typography are not so much two consecutive processes on different levels as interpenetrating elements.
+
+2. Unity is reached in different phases, each successor including its predecessor:
+
+- in the integration of different signs, different letters into the word.
+- in the integration of different words into the sentence.
+- in the integration of different sentences into the "reading-time" dimension.
+- in the integration of independent problems and functions.
+
+At the beginning I was rash enough to speak of "searching for new criteria." Has this article been productive of such? Some of the examples cited and have already become historic documents. The problems have already arisen and they have been solved in such a way that the results have remained fresh, living exemplars. 
+
+As already said: In essentials these principles of "elementary and "functional" typography are still valid and are observed to a very great extent. And new ones cannot be added where the solution of single problems is concerned.
+
+However, today there are some changes: the production of printed matter has assumed unforeseen proportions. We are not only threatened by the danger of extravagance and superficiality where the individual creation, however excellent it may be, becomes lost, but also by the menace that the knowledge and experience of the pioneers, what has already been done and is generally recognized, will degenerate into mere formalism, become fashionable. The fulfillment of a dream threatens to become a nightmare. Here we are not allowed to resign. Here the designer must intervene, he must in a sense aim at a larger whole; he must not continue to carry out the single task so much as create structures from which single solutions can be derived.
+
+This adds to the work of design a new dimension of planning, from the angle of both language and type.
+
+The structure, once planned, always contains the elements of text and typography, always comprehends the whole and makes the single task possible. Thus work becomes more complex, and presupposes an intensified cooperation among all participants. But here design acquires meaning again. The greater effort and longer time dedicated to the development of the structure pays off in the end because it makes the detail work so much easier. And finally the new experience brings forth new impulses for the work on single tasks. In short: From the viewpoint of the whole structure, the integral design itself gains a new stability, a new up-to-dateness, a new significance in this age of short-lived production and corresponding waste of printed matter,
+
+What I have tried to show on these pages cannot be a new typographical style. Because the "New Typography" was not an arbitrary fashion which has now served its purpose. It was the sweeping reform of our most important means of communication, the typeface, in a period of sweeping changes. What we can and must do today is not change the inherited principles but extend them to new tasks. From the elementary, from the functional to the structural, the integral: this is the raw material for the new criteria.
+
