@@ -57,5 +57,10 @@ else
 <script type="text/javascript" src="/static/js/windowfull.js"></script>	
 <script>
 	const images = document.querySelectorAll('img:not(.prevent-windowfull):not(.prevent-screenfull)');
-	new ScreenfullExtended(screenfull, document.getElementById('screenfull-container'), images);
+	if (screenfull.isEnabled) {
+		new ScreenfullExtended(screenfull, document.getElementById('screenfull-container'), images);
+	}	
+	else{
+		windowfull.init(document.getElementById('fullwindow'), images);
+	}
 </script>
